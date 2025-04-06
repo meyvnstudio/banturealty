@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "status": "Status",
+    "actions": "Actions"
+  },
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "tools": "Tools",
+    "dashboard": "Dashboard",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "dashboard": {
+    "tenants": "Tenants",
+    "maintenance": "Maintenance",
+    "payments": "Payments",
+    "expenses": "Expenses",
+    "reports": "Reports"
+  },
+  "tenant": {
+    "addNew": "Add New Tenant",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "leaseStart": "Lease Start Date",
+    "leaseEnd": "Lease End Date",
+    "rentAmount": "Rent Amount",
+    "securityDeposit": "Security Deposit",
+    "uploadLease": "Upload Lease Agreement"
+  },
+  "maintenance": {
+    "createTicket": "Create Ticket",
+    "title": "Title",
+    "description": "Description",
+    "priority": {
+      "label": "Priority",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "urgent": "Urgent"
+    },
+    "status": {
+      "open": "Open",
+      "inProgress": "In Progress",
+      "resolved": "Resolved",
+      "closed": "Closed"
+    }
+  },
+  "payments": {
+    "recordPayment": "Record Payment",
+    "amount": "Amount",
+    "date": "Date",
+    "method": "Payment Method",
+    "status": {
+      "pending": "Pending",
+      "completed": "Completed",
+      "failed": "Failed"
+    }
+  },
+  "subscription": {
+    "title": "Property Management Pro",
+    "description": "Access advanced features for just $5/month",
+    "features": {
+      "tenants": "Tenant Management",
+      "maintenance": "Maintenance Tracking",
+      "payments": "Payment Processing",
+      "reports": "Financial Reports"
+    },
+    "subscribe": "Subscribe Now",
+    "manage": "Manage Subscription"
+  }
+}

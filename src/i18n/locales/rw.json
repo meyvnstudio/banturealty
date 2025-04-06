@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Tegereza...",
+    "error": "Hari ikintu kitarakozwe neza",
+    "save": "Bika",
+    "cancel": "Reka",
+    "delete": "Siba",
+    "edit": "Hindura",
+    "view": "Reba",
+    "status": "Imiterere",
+    "actions": "Ibikorwa"
+  },
+  "nav": {
+    "home": "Ahabanza",
+    "properties": "Imitungo",
+    "tools": "Ibikoresho",
+    "dashboard": "Ikibaho",
+    "signIn": "Injira",
+    "signOut": "Sohoka"
+  },
+  "dashboard": {
+    "tenants": "Abakodesha",
+    "maintenance": "Gusana",
+    "payments": "Kwishyura",
+    "expenses": "Amafaranga yasohotse",
+    "reports": "Raporo"
+  },
+  "tenant": {
+    "addNew": "Ongeraho Umukodesha Mushya",
+    "name": "Izina",
+    "email": "Imeyili",
+    "phone": "Telefoni",
+    "leaseStart": "Itariki yo Gutangira",
+    "leaseEnd": "Itariki yo Kurangira",
+    "rentAmount": "Amafaranga y'Ubukode",
+    "securityDeposit": "Ingwate",
+    "uploadLease": "Shyiraho Amasezerano"
+  },
+  "maintenance": {
+    "createTicket": "Kora Ikibazo",
+    "title": "Umutwe",
+    "description": "Ibisobanuro",
+    "priority": {
+      "label": "Uburemere",
+      "low": "Buke",
+      "medium": "Hagati",
+      "high": "Bukomeye",
+      "urgent": "Byihutirwa"
+    },
+    "status": {
+      "open": "Gufungura",
+      "inProgress": "Birigukora",
+      "resolved": "Byakemutse",
+      "closed": "Byafunzwe"
+    }
+  },
+  "payments": {
+    "recordPayment": "Andika Ubwishyu",
+    "amount": "Amafaranga",
+    "date": "Itariki",
+    "method": "Uburyo bwo Kwishyura",
+    "status": {
+      "pending": "Bitegerejwe",
+      "completed": "Byarangiye",
+      "failed": "Ntibyakunze"
+    }
+  },
+  "subscription": {
+    "title": "Gucunga Imitungo Pro",
+    "description": "Koresha ibikoresho byose kuri $5/ukwezi",
+    "features": {
+      "tenants": "Gucunga Abakodesha",
+      "maintenance": "Gukurikirana Gusana",
+      "payments": "Gucunga Ubwishyu",
+      "reports": "Raporo z'Amafaranga"
+    },
+    "subscribe": "Iyandikishe Nonaha",
+    "manage": "Gucunga Iyandikisha"
+  }
+}
